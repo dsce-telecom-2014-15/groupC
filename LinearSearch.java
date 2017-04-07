@@ -8,7 +8,7 @@ public class LinearSearch {
 		int[] a = { 1, 2, 3, 4 };
 		System.out.println("enter the number to be searched");
 		Scanner se = new Scanner(System.in);
-		int n = se.nextInt();
+		int n = se.nextInt();	// Variable should be named appropriately to increase code readability
 		for (int i = 0; i < a.length; i++) {
 			if (a[i] == n)
 				System.out.println("element found in the array");

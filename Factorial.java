@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Factorial {
 
 	public static void main(String[] args) {
+		//TODO 1! = 0! = 1. Check if this program works for these inputs
 		int i, fact = 1;
 		System.out.println("enter the value of n");
 		Scanner se = new Scanner(System.in);

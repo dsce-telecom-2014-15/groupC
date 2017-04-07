@@ -28,6 +28,7 @@ public class BubbleSort {
 		}
 		se.close();
 
+		// TODO Please remove unnecessary comments.
 		// TODO Auto-generated method stub
 
 	}

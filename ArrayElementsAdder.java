@@ -6,7 +6,7 @@ public class ArrayElementsAdder {
 
 	public static void main(String[] args) {
 		int sum = 0;
-		System.out.println("enter the number");
+		System.out.println("enter the number");	//TODO should be size.
 		Scanner se = new Scanner(System.in);
 		int n = se.nextInt();
 		System.out.println("enter the values");

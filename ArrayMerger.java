@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ArrayMerger {
 
 	public static void main(String[] args) {
+		//TODO Variables should be named appropropriately to increase readability. 
 		int a[], b[];
 		a = new int[5];
 		b = new int[7];
@@ -25,6 +26,8 @@ public class ArrayMerger {
 		for (int i = 0; i < b.length; i++) {
 			System.out.println(b[i]);
 		}
+		//TODO 3rd array should be created and should store elements of the 2 arrays.
+		// Print 3rd array.
 		se.close(); // TODO Auto-generated method stub
 
 	}
